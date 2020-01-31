@@ -14,9 +14,11 @@
   - 각 Dataset 별로 앞에서부터 **11개월간을 Train**으로 사용하고, **12번째 월은 Valid**로 사용, 마지막 **13번째 열은 Test**로 사용한다.
   - Train : Valid : Test = 84 : 8 : 8
 
+<br><br>
 
+<br><br>
 
-
+<br><br>
 
 ### 2. Feature Engineering
 
@@ -30,16 +32,20 @@
   - AFASFASFASDF
   - ASFASASDFASF
 
+<br><br>
 
+<br><br>
 
-
+<br><br>
 
 ### 3. EDA(Exploratory Data Analysis)
 
 - **[Python Code](https://github.com/ajskdlf64/Exchange-Rate-Point-Search/blob/master/Code/01.%20Data%20Loading%20%26%20EDA.ipynb)**
 
+<br><br>
 
+<br><br>
 
-
+<br><br>
 
 ### 4. Modeling
