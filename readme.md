@@ -26,7 +26,7 @@
 
 ### 3. EDA(Exploratory Data Analysis)
 
-- **[Python Code]([https://github.com/ajskdlf64/Exchange-Rate-Point-Search/blob/master/Code/01.%20Data%20Loading%20%26%20EDA.ipynb](https://github.com/ajskdlf64/Exchange-Rate-Point-Search/blob/master/Code/01. Data Loading %26 EDA.ipynb))**
+- **[Python Code]([https://github.com/ajskdlf64/Exchange-Rate-Point-Search/blob/master/Code/01.%20Data%20Loading%20%26%20EDA.ipynb])**
 
 
 
