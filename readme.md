@@ -16,25 +16,17 @@
 
 <br><br>
 
-<br><br>
-
-<br><br>
-
 ### 2. Feature Engineering
 
 - **2.1 asfasfasfasfasdf**
   - ASFASASDFASF
   - AFASFASFASDF
-  - ASFASASDFASF
+  - ASFASASDFASFasdf
 
 - **2.2 asfasfasfasfasdf**
   - ASFASASDFASF
-  - AFASFASFASDF
+  - AFASFASFASDFAS
   - ASFASASDFASF
-
-<br><br>
-
-<br><br>
 
 <br><br>
 
@@ -44,8 +36,6 @@
 
 <br><br>
 
-<br><br>
+### 4. Linear Regression
 
-<br><br>
-
-### 4. Modeling
+- 파이프라인 어떻게 짤까...?
