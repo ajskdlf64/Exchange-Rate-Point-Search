@@ -19,23 +19,66 @@
 ### 2. Feature Engineering
 
 - **2.1 asfasfasfasfasdf**
-  - ASFASASDFASF
-  - AFASFASFASDF
-  - ASFASASDFASFasdf
+  - 가나다라마바사
+  - 가나다라마바사
+  - 가나다라마바사
 
 - **2.2 asfasfasfasfasdf**
-  - ASFASASDFASF
-  - AFASFASFASDFAS
-  - ASFASASDFASF
+  - 가나다라마바사
+  - 가나다라마바사
+  - 가나다라마바사
 
 <br><br>
 
-### 3. EDA(Exploratory Data Analysis)
+### 3. Model 1 : Deep Neural Network
+- **3.1 모델 설명**
+   - 3.1.1 Keras를 활용하여 2층 구조의 DNN 모델 설계.
+   - 3.1.2 Overfitting 방지를 위해서, 2개의 층만 설정, L1, L2 규제 사용, Dropout
+   - 3.1.3 활성화함수 : ReLU, Loss : RMSE, Epoch : 1000, batch_size : 200
+  
+- **3.2 결과 요약**
+  - 3.2.1 Set1만 돌렸을 때의 코드 **-> [Set1 Code](https://github.com/ajskdlf64/Exchange-Rate-Point-Search/blob/master/Code/02.%20DNN%20Set1.ipynb)**
+  - 3.2.2 Set1 ~ Set12를 모두 돌렸을 때의 코드 **-> [Set1 ~ Set12 Code](https://github.com/ajskdlf64/Exchange-Rate-Point-Search/blob/master/Code/03.%20DNN%20Set1%20_%20Set12.ipynb)**
+  
+  <br><br>
 
-- **[Python Code](https://github.com/ajskdlf64/Exchange-Rate-Point-Search/blob/master/Code/01.%20Data%20Loading%20%26%20EDA.ipynb)**
+### 4. Model 2 : Recurrent Neural Network (LSTM, GRU)
+- **4.1 모델 설명**
+   - 4.1.1 가나다라마바사
+   - 4.1.2 가나다라마바사
+   - 4.1.3 가나다라마바사
+  
+- **4.2 결과 요약**
+  - 4.2.1 가나다라마바사
+  - 4.2.2 가나다라마바사
+  
+  
+  ### 참고사항
+   - 모델 안정성 확보를 위해 시뮬레이션 100번 진행, 1번당 약 3분 -> 100번 약 300분, 5시간
+   - 분류모델도 고려...?
+   - LSTM, GRU도 함께 고려...
+   - 하이퍼 파라미터 그리드 서치
+   - 매달 최저가로 구매하면 얼마나 절약 가능할까...?
+   - 지금은 과거 5일치만 -> 좀 더 늘려볼까...?
+  
+   <br><br>
 
-<br><br>
+### 5. Model 3 : Pattern Recognize with LSTM, GAN
+- **5.1 모델 설명**
+   - 5.1.1 가나다라마바사
+   - 5.1.2 가나다라마바사
+   - 5.1.3 가나다라마바사
+  
+- **5.2 결과 요약**
+  - 5.2.1 가나다라마바사
+  - 5.2.2 가나다라마바사
 
-### 4. Linear Regression
+   <br><br>
 
-- 파이프라인 어떻게 짤까...?
+### 참고사항
+ - 모델 안정성 확보를 위해 100번 시뮬레이션(1번당 약3분, 100번이면 300분,5시간)
+ - 분류모델로 변경...?
+ - LSTM, GRU도 고려
+ - Hyper Parameter 그리드 서치
+ - 매달 최저가로 구매시 얼마나 절약 가능할까?
+ - 지금은 과거 5일치만, -> 좀 더 늘려볼까?
